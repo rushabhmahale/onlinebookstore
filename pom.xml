@@ -50,6 +50,11 @@
 			</plugin>
 		</plugins>
 	</build>
+	<properties>
+		<sonar.host.url>http://35.222.65.210:9000</sonar.host.url>
+		<sonar.login>admin</sonar.login>
+		<sonar.password>rushabh123</sonar.password>
+	</properties>
 	<dependencies>
 
 		<dependency>
